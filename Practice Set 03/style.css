@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(15, 15, 56);
+}
+.question1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+h2{
+    color:white;
+}
+.div1{
+    background-color: black;
+    height: 60px;
+    border: 7px solid white;
+    border-radius: 5px;
+}
+.div2{
+    margin-top: 7px;
+}
+#a1{
+    color:  #f08804;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+#a2{
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+
+}
+#a3{
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+}
+#a4{
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+}
+#input{
+    margin-left: 200px;
+}
+button{
+    background-color: #f08804;
+}
